@@ -18,7 +18,12 @@ Skills
 
 Sub Agents
 
-![Uploading image.png…]()
+<img width="2400" height="1360" alt="image" src="https://github.com/user-attachments/assets/d48af2cd-d5db-4b92-808b-6b4df375a516" />
+
+
+<img width="2474" height="1362" alt="image" src="https://github.com/user-attachments/assets/ce162f27-f5ef-4fa0-99f0-6e673d46b037" />
+
+
 
 
 
