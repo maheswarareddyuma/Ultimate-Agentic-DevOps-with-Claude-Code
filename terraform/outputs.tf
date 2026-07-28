@@ -17,3 +17,8 @@ output "s3_bucket_arn" {
   description = "ARN of the S3 bucket hosting the site"
   value       = aws_s3_bucket.site.arn
 }
+
+output "github_actions_role_arn" {
+  description = "ARN of the IAM role assumed by GitHub Actions via OIDC for CI/CD deploys"
+  value       = aws_iam_role.github_actions.arn
+}

@@ -1,0 +1,1 @@
+- [Portfolio CloudFront optimization](cloudfront-price-class.md) — Static site using PriceClass_200; PriceClass_100 saves ~25-30% for typical traffic
