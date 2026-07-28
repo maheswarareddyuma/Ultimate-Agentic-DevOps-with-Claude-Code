@@ -1,0 +1,1 @@
+- [Scaffold conventions](project_scaffold_conventions.md) — fixed defaults/resource IDs (OAC, CachingOptimized policy ID, bucket naming) for the portfolio-site terraform/ stack.

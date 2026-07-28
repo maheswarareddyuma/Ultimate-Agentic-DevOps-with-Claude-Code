@@ -1,0 +1,2 @@
+- [Severity calibration for hobby portfolio stack](feedback_severity_calibration.md) — don't inflate WAF/logging/versioning gaps on a no-PII static site
+- [Portfolio stack baseline + recurring gap](project_portfolio_stack_baseline.md) — solid OAC/policy baseline; recurring gap is no .gitignore + local state, missing security headers policy

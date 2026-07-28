@@ -1,0 +1,2 @@
+- [CloudFront TLS default-cert gotcha](cloudfront_tls_default_cert.md) — verify TLS floor against tfstate/live state, not main.tf, when using default cert
+- [Backend migration aborted 2026-07-28](backend_migration_aborted.md) — backend.tf intentionally reverted to commented phase-1 template, state is local-only
