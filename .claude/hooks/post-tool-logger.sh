@@ -5,5 +5,5 @@ INPUT=$(cat)
 CMD=$(echo "$INPUT" | jq -r '.tool_input.command // empty')
 
 if echo "$CMD" | grep -q "terraform plan"; then
-  echo "[$(date -u +%Y-%m-%dT%H:%M:%SZ)] terraform plan executed" >> .claude/deploy.log
+  echo "[$(date -u +%Y-%m-%dT%H:%M:%SZ)] terraform plan executed" >> "$CLAUDE_PROJECT_DIR/.claude/deploy.log"
 fi
